@@ -33,6 +33,13 @@ For Ubuntu/Debian users:
 
 Following the above installation steps for required softwares will set up an environment to run the Library Management System without any hassle.s
 
+Running the software:
+For Windows users:
+Open your command prompt and navigate to the project's directory and run the following command: python3 frontend.py
+
+For Ubuntu/Debian users:
+Open your terminal and navigate to the project's directory and run the following command: python3 frontend.py
+
 Built with:
 
     Python3 - GUI for the software.
