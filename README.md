@@ -6,7 +6,7 @@ Library Management System.
 
 Setting up and installing this software is ease by just installing Python3, Python3's Tkinter GUI library, SQLite3 module for Python3.
 
-**Prerequisites:**
+# Prerequisites:
 
 **Softwares needed:**
 1.	Python3.
@@ -15,10 +15,10 @@ Setting up and installing this software is ease by just installing Python3, Pyth
 4.	SQLite3 module for Python3.
 
 **Installation links of the required softwares:**
-1.	Python3: https://www.python.org/downloads/
-2.	SQLite3: https://sqlite.org/download.html
+1.	Python3: <https://www.python.org/downloads/>
+2.	SQLite3: <https://sqlite.org/download.html>
 
-**Installing required softwares:**
+# Installing required softwares:
 
 **For Windows users:**
 1.	Download Python3 from the above given link and install it. When installing Python3, make sure that under Tcl/Tk you select Will be installed on hard drive. The option 'Tcl/Tk' must be checked to allow Python installer to install Python's Tkinter GUI library.
@@ -33,18 +33,18 @@ Setting up and installing this software is ease by just installing Python3, Pyth
 
 **Following the above installation steps for required softwares will set up an environment to run the Library Management System without any hassles.**
 
-**Running the software:**
+# Running the software:
+
 **For Windows users:**
 Open your command prompt and navigate to the project's directory and run the following command: python3 frontend.py
 
 **For Ubuntu/Debian users:**
 Open your terminal and navigate to the project's directory and run the following command: python3 frontend.py
 
-**Built with:**
+# Built with:
+1.    Python3 - GUI for the software.
+2.    SQLite3 - Database Management System.
 
-    Python3 - GUI for the software.
-    SQLite3 - Database Management System.
-
-**Author:**
+# Author:
 
     Siddhesh Kudtarkar
